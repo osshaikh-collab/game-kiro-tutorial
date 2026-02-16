@@ -43,9 +43,9 @@ Reach the green goal line at the end of the level before time runs out!
 ## 🚀 How to Run
 
 ### Option 1: Local Play (Easiest)
-1. Download both `game.html` and `game.js` files
+1. Download both `index.html` and `game.js` files
 2. Place them in the same folder
-3. Double-click `game.html` to open in your browser
+3. Double-click `index.html` to open in your browser
 4. Start playing!
 
 ### Option 2: Host Online
@@ -61,7 +61,7 @@ No build process or dependencies required - it's pure HTML/CSS/JavaScript!
 
 ```
 .
-├── game.html          # Main HTML file with canvas and styling
+├── index.html         # Main HTML file with canvas and styling
 ├── game.js            # Game logic, physics, rendering, and audio
 └── README.md          # This file
 ```
