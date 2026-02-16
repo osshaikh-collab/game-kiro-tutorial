@@ -1,6 +1,6 @@
 # Golden Retriever Platformer Game
 
-A retro-style 2D platformer game inspired by Super Mario Bros (1985), featuring a golden retriever puppy as the main character. Built with vanilla JavaScript and HTML5 Canvas.
+A retro-style 2D platformer game inspired by Super Mario Bros (1985), featuring a golden retriever puppy as the main character. Built with vanilla JavaScript and HTML5 Canvas using Amazon Kiro agentic IDE.
 
 ## 🎮 Game Features
 
